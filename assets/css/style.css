@@ -251,8 +251,8 @@ body {
   .work {width:100%;}
 }
 
+/* for tablets*/
 @media only screen and (min-width: 640px) and (max-width: 980px){
-  /* for tablets*/
   .sidebar {float:left; max-width:980px;}
   nav {margin-right:20px;}
   .main-section{margin-top:90px;max-width:980px; padding:20px;}
